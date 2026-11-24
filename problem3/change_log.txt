@@ -1,0 +1,2 @@
+2026. 11. 24. (화) 12:56:45 KST
+private.sh permission changed to 500
